@@ -1,0 +1,7 @@
+{
+  "name": "RailwayApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
